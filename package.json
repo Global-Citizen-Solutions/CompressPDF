@@ -1,0 +1,12 @@
+{
+  "name": "compresspdf",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static host runtime for CompressPDF on Azure App Service Linux",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
